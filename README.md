@@ -16,7 +16,7 @@ Reddit-inspired discussion platform built with Laravel and Blade.
 - Bootstrap
 - Vite
 
-## Home Screen
+## Home Page
 
 ![Homepage](README-assets/homepage.png)
 
